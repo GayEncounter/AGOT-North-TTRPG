@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 2683907420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f65453e4e3595da61979113aa6a98ecd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa5aaa757ab702b02a40a9d50babe146
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8cd3aa8f689c952a65d0afa2d8b6fddc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Castle_Black/cb_barrel_06_broken.prefab
+Dependencies: []
