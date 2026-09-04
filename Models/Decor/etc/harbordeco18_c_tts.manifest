@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 2114160993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d742e838c068f47b838cbed5210e787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6b74c6f7c431c141027f082eda1078
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a510324a1d9c0107b664085855ba348
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Etc/HarborDeco18_C.prefab
+Dependencies: []

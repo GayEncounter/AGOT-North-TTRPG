@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 3486234408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74d9fd7d5fb99da7deac764e7fea56f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6b74c6f7c431c141027f082eda1078
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5d920f25c7d6b135753b28982c692fb8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Etc/Co_RockSnowC_11.prefab
+Dependencies: []

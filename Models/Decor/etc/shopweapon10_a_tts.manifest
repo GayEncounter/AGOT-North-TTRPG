@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 3005383841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa7eb8cc0db7cd0371e67ef04cbda9db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6b74c6f7c431c141027f082eda1078
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6238ade2e3dd7bc5ce86be0300bd763e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Etc/ShopWeapon10_A.prefab
+Dependencies: []

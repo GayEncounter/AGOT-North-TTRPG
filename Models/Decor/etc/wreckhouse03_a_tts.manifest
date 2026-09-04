@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 138213136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6319f2b0a56a904d24681f83fc18f9b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6b74c6f7c431c141027f082eda1078
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee29fe04d068aaa288b78fdf5fc5d34f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Etc/WreckHouse03_A.prefab
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 1620491679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be26828ad77e2478724a5201925ce824
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6b74c6f7c431c141027f082eda1078
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1240b37076f581907ed67fa504d83b34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Objects/Decor/Etc/WoodBridge01_F.prefab
+Dependencies: []
