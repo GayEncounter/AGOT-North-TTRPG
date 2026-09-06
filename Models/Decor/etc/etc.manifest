@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.62f1
-CRC: 3051550337
+CRC: 1549857093
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -933,4 +933,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_309:
       Name: wrecktower01_a_tts
+      Dependencies: {}
+    Info_310:
+      Name: sm_oldtree2_tts
       Dependencies: {}
